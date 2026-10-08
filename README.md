@@ -102,7 +102,7 @@ Model Training
 Evaluation
      ↓
 Saved Models
-
+```
 ## Technology Stack
 Frontend
 - Streamlit
@@ -125,7 +125,7 @@ Machine Learning
 Data Processing
 - Pandas
 - NumPy
-
+```text
 ThreatLENS/
 │
 ├── backend/
