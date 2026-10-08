@@ -84,6 +84,7 @@ The training data includes sources such as:
 - Financial Scams Detection Dataset
 
 ## Data processing pipelines:
+```text
 Raw Datasets
      ↓
 Data Cleaning
@@ -152,7 +153,7 @@ ThreatLENS/
 │
 ├── requirements.txt
 └── README.md
-
+```
 ## Future Improvements
 - Screenshot-based scam detection
 - OCR integration
